@@ -1,7 +1,7 @@
 # Личный проект «Менеджер задач» [![Build status][travis-image]][travis-url]
 
 * Студент: [Sergii Lisovyi](https://up.htmlacademy.ru/ecmascript/9/user/810259).
-* Наставник: `Неизвестно`.
+* Наставник: `Сергей Вохмянин`.
 
 ---
 
